@@ -2,7 +2,8 @@ I’m Radiah Khan, a data science and quantitative economics student with hands-
 
 Projects
 
-Welcome to my portfolio — here, I showcase coursework and personal projects that reflect my data science and economics journey.
+[Welcome to my portfolio](./projects) — here, I showcase coursework and personal projects that reflect my data science and economics journey.
+
 
 Skills
 
