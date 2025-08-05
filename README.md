@@ -7,13 +7,10 @@ Projects
 
 Skills
 
-- Python
 - R
+- Python
 - SQL
-- Stata
-- SAS
 - Tableau
-- Power BI
-- Excel
+
 
 
